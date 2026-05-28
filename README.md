@@ -1,4 +1,4 @@
-# AI Mail Generator 🚀
+# AI Mail Generator 🚀 live link - https://ai-email-generator-rose.vercel.app/
 
 A modern, professional AI-powered email generation web application. Create polished, human-sounding emails instantly with smart AI prompts.
 
